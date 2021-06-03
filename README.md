@@ -1,3 +1,3 @@
-<b>Project demonstrating micro services architecture</b>
+# Project demonstrating micro services architecture
 
 ### Auth Service
